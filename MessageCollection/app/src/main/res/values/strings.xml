@@ -1,0 +1,59 @@
+<resources>
+
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="app_name">Message Collection</string>
+    <string name="home_toolbar_text">Choose a Category</string>
+    <string name="no_internet_title">Please check your Internet Connection.</string>
+    <string name="try_again">Try Again</string>
+    <string name="my_favorites">My Favorites</string>
+    <string name="delete_confirmation">Are you sure you want to delete this message?</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="no_data_available">No Data Available</string>
+    <string name="error_internet_connection">Please check your internet connection</string>
+    <string name="error_something_went_wrong">Oops! Something went wrong.</string>
+    <string name="whats_hot">What\'s Hot</string>
+    <string name="action_share">Share</string>
+    <string name="home_transition">HomeTransition</string>
+    <string name="added_to_fav">Added to Favorites</string>
+    <string name="message_copied">Message Copied</string>
+    <string name="share_text">Share Text</string>
+    <string name="tts_failed">Oops! Something went wrong. Text to speech not working.</string>
+    <string name="already_exist_in_fav_list">Text already in your favorite list.</string>
+    <string name="messages">Messages</string>
+    <string name="firebase_database_categories">categories</string>
+    <string name="failed_to_read_values">Failed to read value.</string>
+    <string name="subsubcategory_analytics">SubSubCategory</string>
+    <string name="text">text</string>
+    <string name="firebase_database_subtitle">subtitle</string>
+    <string name="firebase_database_textarray">textArray</string>
+    <string name="firebase_database_title">title</string>
+    <string name="firebase_database_isListening_allowed">isListeningAllowed</string>
+    <string name="firebase_database_subcategories">subCategories</string>
+    <string name="firebase_database_subarray">subArray</string>
+    <string name="firebase_database_image_url">imageUrl</string>
+    <string name="analytics_whats_hot">ImageLoaded</string>
+    <string name="image">image</string>
+    <string name="async_whats_hot_error">Error getting a random  joke</string>
+    <string name="analytics_delete_fav">Delete favorite</string>
+    <string name="analytics_text_deleted">Text deleted from Favorites</string>
+    <string name="analytics_category">Category</string>
+    <string name="copy">Copy</string>
+    <string name="analytics_text_copied">Text Copied</string>
+    <string name="analytics_tts">Text to speech</string>
+    <string name="tts_worked">Listening worked</string>
+    <string name="analytics_tts_failed">Listening failed</string>
+    <string name="share">Share</string>
+    <string name="analytics_user_sharing_content">User sharing content</string>
+    <string name="add_to_fav">Add to Favorite</string>
+    <string name="analytics_add_to_fav_cliacked">Add to Favorite Clicked</string>
+    <string name="message_category">Message Categories</string>
+    <string name="next">next</string>
+    <string name="current_page">Current Page</string>
+    <string name="previous">previous</string>
+    <string name="message_detail">Message Details</string>
+    <string name="delete">delete</string>
+    <string name="listen_to_message">Listen Message</string>
+    <string name="firebase_database_whatshot">whatsHot</string>
+
+</resources>
