@@ -2,18 +2,6 @@ apply plugin: 'com.android.application'
 
 android {
     signingConfigs {
-        debug {
-            keyAlias 'Message Collection'
-            keyPassword 'message@123'
-            storeFile file('message_collection_keystore.jks')
-            storePassword 'message@123'
-        }
-        release {
-            keyAlias 'Message Collection'
-            keyPassword 'message@123'
-            storeFile file('message_collection_keystore.jks')
-            storePassword 'message@123'
-        }
     }
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
